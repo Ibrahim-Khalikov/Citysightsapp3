@@ -9,7 +9,7 @@ import SwiftUI
 
 struct LaunchView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, woadsf as f a fa rld!")
             .padding()
     }
 }
